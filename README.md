@@ -1,4 +1,5 @@
-# season0-projects
+# Pluriverse Community Season 0 Projects
+
 The initial projects to bootstrap the Pluriverse community during the first 90 days. They are broken down into the following categories:
 
 ### Manifesto
